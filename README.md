@@ -1,3 +1,4 @@
 # Caps-Lock-like-in-Windows-on-Linux
-This script turn caps like a windows caps.
-Teste
+
+If you're a person who uses Caps instead of Shift, you've probably noticed the delay in Caps after hanging up.
+After searching many times, I found this script, it ran perfect for me.
